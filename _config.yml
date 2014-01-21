@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+lsi:		  false
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            A Running Piece of Software
+description:      'A Readable Piece of Software. Made by <a href="https://twitter.com/AlexAbreuDev" target="_blank">@AlexAbreuDev</a>.'
+url:              http://alexandreabreu.net
+
+author:
+  name:           'Alexandre Abreu'
+  url:            https://twitter.com/AlexAbreuDev
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/AlexandreAbreu
